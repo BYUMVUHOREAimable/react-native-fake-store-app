@@ -151,7 +151,7 @@ const ProductListingScreen = () => {
       <SafeAreaView style={styles.container}>
         {/* Fixed Header */}
         <View style={styles.header}>
-          <Text style={styles.headerTitle}>Fake Store</Text>
+          <Text style={styles.headerTitle}>App Store</Text>
           <Text style={styles.headerSubtitle}>Your One-Stop Shop for Everything</Text>
         </View>
 

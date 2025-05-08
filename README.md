@@ -1,8 +1,8 @@
-# Fake Store Mobile App
+# App Store Mobile App
 
 A modern, responsive mobile application built with React Native and Expo that showcases products from the Fake Store API. The app features a beautiful UI, smooth navigation, and detailed product views.
 
-![Fake Store App](https://via.placeholder.com/800x400?text=Fake+Store+App)
+![App Store App](https://via.placeholder.com/800x400?text=App+Store+App)
 
 ## Features
 
@@ -38,8 +38,8 @@ A modern, responsive mobile application built with React Native and Expo that sh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fake-store-app.git
-cd fake-store-app
+git clone https://github.com/BYUMVUHOREAimable/react-native-fake-store-app.git
+cd freact-native-fake-store-app
 ```
 
 2. Install dependencies:
@@ -113,10 +113,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@BYUMVUHOREAimab](https://twitter.com/BYUMVUHOREAimab)
 
-Project Link: [https://github.com/yourusername/fake-store-app](https://github.com/yourusername/fake-store-app)
+Project Link: [https://github.com/BYUMVUHOREAimable/react-native-fake-store-app.git](https://github.com/BYUMVUHOREAimable/react-native-fake-store-app.git)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Your Name](https://github.com/BYUMVUHOREAimable)
